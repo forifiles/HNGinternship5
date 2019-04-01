@@ -1,2 +1,2 @@
-This is an empty text file
+This was an empty text file
 print("hello world")
